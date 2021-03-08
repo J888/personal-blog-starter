@@ -1,0 +1,16 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.slug {
+  border: solid #d8d8d8 0.1em;
+  border-radius: 0.6em;
+  width: fit-content;
+  padding: 0.5em;
+  background: #f9f9f9;
+}
